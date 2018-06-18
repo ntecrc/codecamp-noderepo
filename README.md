@@ -1,2 +1,1 @@
-# codecamp-noderepo
-Node.JS challenge folder
+# Backend Challenges boilerplate - package.json
